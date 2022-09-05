@@ -1,6 +1,7 @@
 # Frontend Mentor - Single price grid component
 
-![Preview Design](/)
+<img width="593" alt="image" src="https://user-images.githubusercontent.com/57645180/188496212-d41bb3aa-66d7-4e32-9ce8-946aafe7574b.png">
+
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
